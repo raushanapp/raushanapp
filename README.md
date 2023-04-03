@@ -5,7 +5,7 @@
 I have been learning coding since August 2021. Masai has given me the training over MERN Stack web development where I learned HTML, CSS, JavaScript, Node.js, Express, React, Redux and also got the working of Github. I am curious to learn new technologies which can develop the world to be sustainable one for the future.
 
 * 🌍  I'm based in Sagar, Bihar
-* 💬  My portfolio is [[https://portfolio-raushan.netlify.app/](https://raushanapp.github.io/raushan-portfolio/)]
+* 💬  My portfolio is [https://portfolio-raushan.netlify.app/](https://raushanapp.github.io/raushan-portfolio/)]
 * ✉️  You can contact me at [sraushan890@gmail.com](mailto:sraushan890@gmail.com)
 * 🧠  I'm learning `MERN Stack`.
 <!-- * 🤔  I’m looking for help with `Competitive Programming` -->
