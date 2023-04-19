@@ -5,7 +5,7 @@
 I have been learning coding since August 2021. Masai has given me the training over MERN Stack web development where I learned HTML, CSS, JavaScript, Node.js, Express, React, Redux and also got the working of Github. I am curious to learn new technologies which can develop the world to be sustainable one for the future.
 
 * 🌍  I'm based in Sagar, Bihar
-* 💬  My portfolio is [(https://raushanapp.github.io/raushan-portfolio/)]
+* 💬  My portfolio is [(https://raushanapp.github.io/raushan_portfolio/)]
 * ✉️  You can contact me at [sraushan890@gmail.com](mailto:sraushan890@gmail.com)
 * 🧠  I'm learning `MERN Stack`.
 <!-- * 🤔  I’m looking for help with `Competitive Programming` -->
@@ -50,5 +50,5 @@ I have been learning coding since August 2021. Masai has given me the training o
 
 <a href = 'https://www.linkedin.com/in/raushan-coder/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp; 
 <a href="mailto:sraushan890@gmail.com?subject=github though"> <img width = '38px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>&nbsp; 
-<a href="https://raushanapp.github.io/raushan-portfolio/"> <img width = '38px' align= 'center' src="https://user-images.githubusercontent.com/96105500/159317501-cd34bf36-a370-43c3-ba92-a3d3f4cadf45.png"/></a><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+<a href="https://raushanapp.github.io/raushan_portfolio/"> <img width = '38px' align= 'center' src="https://user-images.githubusercontent.com/96105500/159317501-cd34bf36-a370-43c3-ba92-a3d3f4cadf45.png"/></a><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   
