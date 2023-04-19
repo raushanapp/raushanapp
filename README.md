@@ -40,11 +40,23 @@ I have been learning coding since August 2021. Masai has given me the training o
   <a href="https://github.com/darshan-shinde/BigBasket-U4-P.git" target="blank"><img src="https://imgs.search.brave.com/6pMR74HSRhAQq4s7-zZU8_zolBrnyhs2P18CGOs6vLQ/rs:fit:505:264:1/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vc2l0/ZXMvYnRtdC9pbWFn/ZXMvc3Rvcmllcy9i/aWdiYXNrZXRfNTA1/XzIyMDIyMTEwMzc0/MC5qcGc" alt="adidas" height ="28px" width ="115px"/></a> 
 </p>
 
-## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raushanapp&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&layout=compact&hide_border=true" alt="raushanapp" /></p>  <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raushanapp&theme=highcontrast&hide_border=true" alt="raushanapp" /></p> <p align="center">  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raushanapp&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&hide_border=true" alt="raushanapp" />  </p>
+<!-- ## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raushanapp&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&layout=compact&hide_border=true" alt="raushanapp" /></p>  <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raushanapp&theme=highcontrast&hide_border=true" alt="raushanapp" /></p> <p align="center">  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raushanapp&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&hide_border=true" alt="raushanapp" />  </p>
 
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raushanapp&theme=dracula&hide_border=true)
+ -->
+ ## ⚙️ &nbsp;***GitHub Analytics***
+<div align="center">
 
+<a href="https://github.com/raushanapp">
+
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raushanapp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raushanapp&layout=compact&langs_count=5&theme=algolia"/>
+
+<img align="center" height="170rem" src="https://github-readme-streak-stats.herokuapp.com/?user=raushanapp&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+</a>
+</div>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
