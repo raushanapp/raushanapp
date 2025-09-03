@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Frontend developer from India</h3>
 <!-- ------------------------ -->
 
-With over three years of experience in developing scalable and user-friendly web and mobile applications, I specialize in leveraging modern technologies like **React.js**, **React Native**, **Next.js**, and **TypeScript** to build high-performance solutions. I am passionate about creating seamless and intuitive user experiences across platforms, focusing on clean, maintainable code and effective problem-solving.
-
-At **Tappp.com**, I contribute to innovative product development and help scale applications that deliver impactful business solutions. Before that, I worked at **Comvision India Pvt Ltd**, where I collaborated on dynamic, product-based projects, honing my skills in cross-functional team environments.
+A highly skilled Frontend Developer with over 3 years of experience crafting high-performance, user-centric web and mobile applications. I specialize in building scalable solutions using React.js, Next.js, TypeScript, and React Native. Passionate about writing clean, maintainable code and creating seamless user experiences, I aim to stay ahead of industry trends and deliver impactful solutions that align with business objectives and push the boundaries of what's possible in frontend development.
 
 
 * 🌍  I'm based in Sagar, Bihar
