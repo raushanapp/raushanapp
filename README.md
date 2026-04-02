@@ -9,18 +9,41 @@ Continuously exploring new technologies and approaches to build efficient, scala
 * 🌍  I'm based in Sagar, Bihar
 * 💬  My portfolio is [(https://raushanapp.github.io/raushan_kumar_portfolio/)]
 * ✉️  You can contact me at [sraushan890@gmail.com](mailto:sraushan890@gmail.com)
-* 🧠  I'm learning `MERN Stack`.
-<!-- * 🤔  I’m looking for help with `Competitive Programming` -->
-<!-- * ⚡  I like interacting with new people and explore the world. -->
-* 💬  Ask me about `Coding`, `Frontend`, `Backend`,  `DSA`,   `softwaredevelopment`
+💡 Currently exploring system design & scalable architectures
 
-## Skills & Technologies
-- **Frontend Development**: React.js, React Native, Next.js, JavaScript, TypeScript
-- **Backend & APIs**: GraphQL, Node.js
-- **State Management**: Redux, Context API
-- **Version Control**: Git, GitHub, GitLab
-- **Devloping API Testing Tool**: Post Man
-- **Packgae Manager**: NPM, YARN
+<!-- 
+
+## 🛠 Tech Stack
+
+**Frontend:** React.js, React Native, Next.js, TypeScript  
+**Backend:** Node.js, GraphQL  
+**State Management:** Redux, Context API  
+**Tools:** Git, GitHub, Postman  
+--->
+💬 Ask me about:
+- React Native performance optimization
+- Scalable frontend architecture
+- Micro-frontends
+- Trading app development
+
+## 🛠 Tech Stack
+
+**Frontend:** React.js, React Native, Next.js, TypeScript  
+**Backend:** Node.js, GraphQL  
+**State Management:** Redux, Context API  
+**Tools:** Git, GitHub, Postman  
+
+- ## 🚀 Featured Projects
+
+### 📈 Trading Application
+- Built from scratch using React Native & TypeScript
+- Multi-exchange support with real-time data
+- Custom basket feature for grouped trading
+- AI-based basket generation
+
+### ⚙️ Micro-Frontend System
+- Developed runtime architecture for scalable apps
+- Improved modularity and performance
 
 
 <!-- ## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raushanapp&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&layout=compact&hide_border=true" alt="raushanapp" /></p>  <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raushanapp&theme=highcontrast&hide_border=true" alt="raushanapp" /></p> <p align="center">  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raushanapp&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&hide_border=true" alt="raushanapp" />  </p>
@@ -28,6 +51,8 @@ Continuously exploring new technologies and approaches to build efficient, scala
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raushanapp&theme=dracula&hide_border=true)
  -->
+
+ 
  ## ⚙️ &nbsp;***GitHub Analytics***
 <div align="center">
 
@@ -46,4 +71,7 @@ Continuously exploring new technologies and approaches to build efficient, scala
 <a href = 'https://www.linkedin.com/in/raushan-coder/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp; 
 <a href="mailto:sraushan890@gmail.com?subject=github though"> <img width = '38px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>&nbsp; 
 <a href="https://raushanapp.github.io/raushan_kumar_portfolio/"> <img width = '38px' align= 'center' src="https://user-images.githubusercontent.com/96105500/159317501-cd34bf36-a370-43c3-ba92-a3d3f4cadf45.png"/></a><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+
+
+
   
