@@ -1,9 +1,10 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Raushan Kumar</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate Software engineer from India</h3>
 <!-- ------------------------ -->
 
-A highly skilled Frontend Developer with over 3 years of experience crafting high-performance, user-centric web and mobile applications. I specialize in building scalable solutions using React.js, Next.js, TypeScript, and React Native. Passionate about writing clean, maintainable code and creating seamless user experiences, I aim to stay ahead of industry trends and deliver impactful solutions that align with business objectives and push the boundaries of what's possible in frontend development.
-
+Software Engineer with 3+ years of experience building high-performance, user-centric web and mobile applications. Skilled in developing scalable solutions using React.js, Next.js, React Native, and TypeScript.
+Focused on writing clean, maintainable code and delivering seamless user experiences. Experienced in building reusable architectures, optimizing performance, and working on production-grade applications.
+Continuously exploring new technologies and approaches to build efficient, scalable systems and impactful digital products.
 
 * 🌍  I'm based in Sagar, Bihar
 * 💬  My portfolio is [(https://raushanapp.github.io/raushan_kumar_portfolio/)]
