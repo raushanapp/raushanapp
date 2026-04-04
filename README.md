@@ -21,7 +21,7 @@ Continuously exploring new technologies and approaches to build efficient, scala
 **Tools:** Git, GitHub, Postman  
 --->
 💬 Ask me about:
-- React Native performance optimization
+- React Native performance optimisation
 - Scalable frontend architecture
 - Micro-frontends
 - Trading app development
@@ -36,10 +36,21 @@ Continuously exploring new technologies and approaches to build efficient, scala
 - ## 🚀 Featured Projects
 
 ### 📈 Trading Application
+### App Store Link 
+ ### Google Play Store [(https://play.google.com/store/apps/details?id=com.wealthagile&pli=1)]
+ ### Apple Play Store [(https://apps.apple.com/ca/app/tokenwell/id1639369761)]
+
 - Built from scratch using React Native & TypeScript
 - Multi-exchange support with real-time data
-- Custom basket feature for grouped trading
-- AI-based basket generation
+- Built core trading platform features enabling users to execute basket trades across multiple exchanges  
+- Designed and implemented a flexible basket trading system, allowing users to create custom baskets, trade across multiple exchanges, and manage portfolios seamlessly  
+- Integrated AI-powered basket generation, enabling dynamic basket creation based on token inputs  
+- Developed the mobile application using React Native with Expo (Bare workflow), combining native flexibility with Expo tooling  
+- Implemented secure and scalable authentication flows using Clerk (Expo integration), including session management and user onboarding  
+- Created scalable and reusable UI components to maintain a clean and maintainable architecture
+- Integrated REST APIs to handle trading data and asynchronous workflows  
+- Optimised application performance by reducing unnecessary re-renders, improving list rendering, and optimising memory usage  
+- Collaborated with backend, product, and design teams to deliver production-ready features  
 
 ### ⚙️ Micro-Frontend System
 - Developed runtime architecture for scalable apps
