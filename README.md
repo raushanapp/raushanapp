@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software engineer from India</h3>
 <!-- ------------------------ -->
 
-Software Engineer with 3+ years of experience building high-performance, user-centric web and mobile applications. Skilled in developing scalable solutions using React.js, Next.js, React Native, and TypeScript.
+Software Engineer with 3 years of experience building high-performance, user-centric web and mobile applications. Skilled in developing scalable solutions using React.js, Next.js, React Native, and TypeScript.
 Focused on writing clean, maintainable code and delivering seamless user experiences. Experienced in building reusable architectures, optimizing performance, and working on production-grade applications.
 Continuously exploring new technologies and approaches to build efficient, scalable systems and impactful digital products.
 
