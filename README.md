@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Raushan Kumar</h1>
-<h3 align="center">A passionate Software engineer from India</h3>
+<h3 align="center">A passionate Full-Stack Software engineer from India</h3>
 <!-- ------------------------ -->
 
-Software Engineer with 3 years of experience building high-performance, user-centric web and mobile applications. Skilled in developing scalable solutions using React.js, Next.js, React Native, and TypeScript.
+Full-Stack Software Engineer with 3 years of experience building high-performance, user-centric web and mobile applications. Skilled in developing scalable solutions using React.js, Next.js, React Native, and TypeScript.
 Focused on writing clean, maintainable code and delivering seamless user experiences. Experienced in building reusable architectures, optimizing performance, and working on production-grade applications.
 Continuously exploring new technologies and approaches to build efficient, scalable systems and impactful digital products.
 
@@ -28,13 +28,30 @@ Continuously exploring new technologies and approaches to build efficient, scala
 
 ## 🛠 Tech Stack
 
-**Frontend:** React.js, React Native, Next.js, TypeScript  
-**Backend:** Node.js, GraphQL  
-**State Management:** Redux, Context API  
-**Tools:** Git, GitHub, Postman  
-
+## Frontend:
+- React.js,
+- React Native,
+- Next.js,
+- TypeScript,
+- JavaScript,
+- HTML5,
+- CSS3 
+## Backend:
+ - Node.js,
+ - Express.js,
+## Database:
+- Postgres,
+-  MongoDB,
+-  Redis,
+## State Management: 
+- Redux,
+- Context API,
+- Redux-toolkit 
+ ## Tools:
+ - Git,
+ - Postman,
+ - AWS, 
 - ## 🚀 Featured Projects
-
 ### 📈 Trading Application
 ### App Store Link 
  ### Google Play Store [(https://play.google.com/store/apps/details?id=com.wealthagile&pli=1)]
