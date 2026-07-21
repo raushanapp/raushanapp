@@ -67,7 +67,28 @@ Continuously exploring new technologies and approaches to build efficient, scala
 - Created scalable and reusable UI components to maintain a clean and maintainable architecture
 - Integrated REST APIs to handle trading data and asynchronous workflows  
 - Optimised application performance by reducing unnecessary re-renders, improving list rendering, and optimising memory usage  
-- Collaborated with backend, product, and design teams to deliver production-ready features  
+- Collaborated with backend, product, and design teams to deliver production-ready features
+
+### Padel Underground Arena
+### App Store Link 
+ ### Apple Play Store [(https://apps.apple.com/us/app/underground-arena/id6754181818)]
+ ### Google Play Store [(https://play.google.com/store/apps/details?id=com.anonymous.PadelUndergroundMobile&hl=en_IN)]
+
+- React Native & TypeScript
+- Match Lifecycle Management
+- Score Logging 
+- Score Confirmation & Dispute System  
+- Player & Court Ratings 
+- Player Reporting  
+- Jail & Coin-Based Gamification
+- REST API Integration
+- Production Deployment (iOS & Android)
+  
+### Responsibilities
+- Developed new features from requirements to production
+- Built complex business logic for match workflows and score validation
+- Maintained and enhanced the application for both Android and iOS platforms
+  
 
 ### ⚙️ Micro-Frontend System
 - Developed runtime architecture for scalable apps
