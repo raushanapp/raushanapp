@@ -1,126 +1,88 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Raushan Kumar</h1>
-<h3 align="center">A passionate Full-Stack Software engineer from India</h3>
-<!-- ------------------------ -->
+# Raushan Kumar
 
-Full-Stack Software Engineer with 3+ years of experience building high-performance, user-centric web and mobile applications. Skilled in developing scalable solutions using React.js, Next.js, React Native, and TypeScript.
-Focused on writing clean, maintainable code and delivering seamless user experiences. Experienced in building reusable architectures, optimizing performance, and working on production-grade applications.
-Continuously exploring new technologies and approaches to build efficient, scalable systems and impactful digital products.
+### Full-Stack Software Engineer | 3+ Years Experience | React + React Native + Node.js
 
-* 🌍  I'm based in Sagar, Bihar
-* 💬  My portfolio is [(https://raushanapp.github.io/raushan_kumar_portfolio/)]
-* ✉️  You can contact me at [sraushan890@gmail.com](mailto:sraushan890@gmail.com)
-💡 Currently exploring system design & scalable architectures
+Software engineer with 3+ years of experience building scalable mobile and web products for real-world users. I work across the stack to design, build, and improve features that are performant, maintainable, and product-focused using React, React Native, Next.js, TypeScript, and Node.js.
 
-<!-- 
+I enjoy solving high-impact product and engineering problems — from improving user experience and application performance to shipping reliable features in production. I’m currently deepening my backend and system design skills while continuing to build modern full-stack solutions.
 
-## 🛠 Tech Stack
+### What I build
 
-**Frontend:** React.js, React Native, Next.js, TypeScript  
-**Backend:** Node.js, GraphQL  
-**State Management:** Redux, Context API  
-**Tools:** Git, GitHub, Postman  
---->
-💬 Ask me about:
-- React Native performance optimisation
-- Scalable frontend architecture
-- Micro-frontends
-- Trading app development
+- Responsive web applications and dashboards
+- Android and iOS mobile products
+- Full-stack product features from UI to backend logic
+- Reusable UI systems and scalable frontend architecture
 
-## 🛠 Tech Stack
+### Core stack
 
-## Frontend:
-- React.js,
-- React Native,
-- Next.js,
-- TypeScript,
-- JavaScript,
-- HTML5,
-- CSS3 
-## Backend:
- - Node.js,
- - Express.js,
-## Database:
-- Postgres,
--  MongoDB,
--  Redis,
-## State Management: 
-- Redux,
-- Context API,
-- Redux-toolkit 
- ## Tools:
- - Git,
- - Postman,
- - AWS, 
-- ## 🚀 Featured Projects
-### 📈 Trading Application
-### App Store Link 
- ### Google Play Store [(https://play.google.com/store/apps/details?id=com.wealthagile&pli=1)]
- ### Apple Play Store [(https://apps.apple.com/ca/app/tokenwell/id1639369761)]
+#### Frontend
 
-- Built from scratch using React Native & TypeScript
-- Multi-exchange support with real-time data
-- Built core trading platform features enabling users to execute basket trades across multiple exchanges  
-- Designed and implemented a flexible basket trading system, allowing users to create custom baskets, trade across multiple exchanges, and manage portfolios seamlessly  
-- Integrated AI-powered basket generation, enabling dynamic basket creation based on token inputs  
-- Developed the mobile application using React Native with Expo (Bare workflow), combining native flexibility with Expo tooling  
-- Implemented secure and scalable authentication flows using Clerk (Expo integration), including session management and user onboarding  
-- Created scalable and reusable UI components to maintain a clean and maintainable architecture
-- Integrated REST APIs to handle trading data and asynchronous workflows  
-- Optimised application performance by reducing unnecessary re-renders, improving list rendering, and optimising memory usage  
-- Collaborated with backend, product, and design teams to deliver production-ready features
+- React.js
+- React Native
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
 
-### Padel Underground Arena
-### App Store Link 
- ### Apple Play Store [(https://apps.apple.com/us/app/underground-arena/id6754181818)]
- ### Google Play Store [(https://play.google.com/store/apps/details?id=com.anonymous.PadelUndergroundMobile&hl=en_IN)]
+#### Backend
 
-- React Native & TypeScript
-- Match Lifecycle Management
-- Score Logging 
-- Score Confirmation & Dispute System  
-- Player & Court Ratings 
-- Player Reporting  
-- Jail & Coin-Based Gamification
-- REST API Integration
-- Production Deployment (iOS & Android)
-  
-### Responsibilities
-- Developed new features from requirements to production
-- Built complex business logic for match workflows and score validation
-- Maintained and enhanced the application for both Android and iOS platforms
-  
+- Node.js
+- Express.js
+- REST APIs
 
-### ⚙️ Micro-Frontend System
-- Developed runtime architecture for scalable apps
-- Improved modularity and performance
+#### Data & state
 
+- PostgreSQL
+- MongoDB
+- Redis
+- Redux
+- Redux Toolkit
+- Context API
 
-<!-- ## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=raushanapp&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&layout=compact&hide_border=true" alt="raushanapp" /></p>  <p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raushanapp&theme=highcontrast&hide_border=true" alt="raushanapp" /></p> <p align="center">  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raushanapp&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&hide_border=true" alt="raushanapp" />  </p>
+#### Tools
 
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raushanapp&theme=dracula&hide_border=true)
- -->
+- Git & GitHub
+- Postman
+- AWS
 
- 
- ## ⚙️ &nbsp;***GitHub Analytics***
-<div align="center">
+### Current focus
 
-<a href="https://github.com/raushanapp">
+- Building backend systems with Node.js and modern full-stack patterns
+- Improving architecture, performance, and maintainability across products
+- Exploring system design and scalable engineering practices
 
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raushanapp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+### Featured projects
 
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raushanapp&layout=compact&langs_count=5&theme=algolia"/>
+#### Trading Application
 
-<img align="center" height="170rem" src="https://github-readme-streak-stats.herokuapp.com/?user=raushanapp&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
-</a>
-</div>
+- React Native + TypeScript
+- Multi-exchange trading workflows with real-time data
+- Basket trading, portfolio management, and AI-powered generation
+- Secure auth and onboarding flows
+- REST API integration and production deployment
+- App Store: [Google Play](https://play.google.com/store/apps/details?id=com.wealthagile&pli=1) | [Apple App Store](https://apps.apple.com/ca/app/tokenwell/id1639369761)
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+#### Padel Underground Arena
 
-<a href = 'https://www.linkedin.com/in/raushan-coder/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp; 
-<a href="mailto:sraushan890@gmail.com?subject=github though"> <img width = '38px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>&nbsp; 
-<a href="https://raushanapp.github.io/raushan_kumar_portfolio/"> <img width = '38px' align= 'center' src="https://user-images.githubusercontent.com/96105500/159317501-cd34bf36-a370-43c3-ba92-a3d3f4cadf45.png"/></a><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+- React Native + TypeScript
+- Match lifecycle, score validation, player ratings, and dispute management
+- REST API integration and cross-platform deployment
+- App Store: [Google Play](https://play.google.com/store/apps/details?id=com.anonymous.PadelUndergroundMobile&hl=en_IN) | [Apple App Store](https://apps.apple.com/us/app/underground-arena/id6754181818)
 
+#### Micro-Frontend System
 
+- Runtime architecture for modular, scalable applications
+- Improved maintainability and performance
 
-  
+### Open to work
+
+I’m open to remote software engineering opportunities, product-focused startup roles, and full-stack engineering teams building impactful digital products.
+
+### Connect
+
+- Portfolio: [raushanapp.github.io](https://raushanapp.github.io/raushan_kumar_portfolio/)
+- LinkedIn: [linkedin.com/in/raushan-coder](https://www.linkedin.com/in/raushan-coder/)
+- Email: [sraushan890@gmail.com](mailto:sraushan890@gmail.com)
+
+[![Profile views](https://komarev.com/ghpvc/?username=raushanapp&color=blueviolet)](https://github.com/raushanapp)
